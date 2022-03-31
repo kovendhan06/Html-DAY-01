@@ -1,0 +1,33 @@
+.txtbox
+{
+margin: 12px;
+border:1px solid lightblue;
+border-radius: 4px;
+padding-left: 6px;
+height:40px;
+width:270px;
+}
+div
+{
+width:300px;
+border: 1px solid lightblue;
+}
+.btn
+{
+  border:1px solid lightblue;
+  font-size: 12px; 
+  background-color:#fff ; 
+  color:black;
+  margin:15px;
+  padding:12px 22px;
+  border-top: 4px;
+  font-weight: 600px;
+
+}
+.btn:hover
+{
+background-color: transparent;
+color:lightskyblue;
+border:2px solid lightblue;
+transition:background-color 0.5s ease-in ;
+}

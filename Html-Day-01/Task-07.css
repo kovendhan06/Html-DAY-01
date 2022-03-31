@@ -1,0 +1,123 @@
+.container
+{
+    border: 1px solid black;
+    width:450px;
+    height:360px;
+}
+.card{
+    width:440px;
+    height:350px;
+    margin:2px;
+    align-items: center;
+    border:3px solid black;
+}
+.content
+{
+    width:440px;
+    height:345px;
+
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    width: 370px;
+    padding: 3px;
+    margin: 10px;
+}
+
+
+.txt-main
+{ 
+    width: 400px;
+    height: 30px;
+    margin: 10px
+
+}
+.txtsubone
+
+{
+    width:200px;
+    height:40px;
+    float:left;
+}
+
+.textone
+{
+    
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    border-color: black;
+    align-items: center;
+    margin: 2px;
+}
+.oneline
+{
+    width:400px;
+    height:15px;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    border-color: black;
+    align-items: center;
+    margin: 2px;
+}
+.txtsingle
+
+{
+    margin:8px;
+    width:200px;
+    height:40px;
+    float:left;
+}
+.txt-third
+{
+    width: 430px;
+    height: 40px;
+    margin-top: 2px;
+    padding: 8px;
+    float: left;
+}
+
+.txtsubthree
+ {
+    width: 140px;
+    height: 40px;
+    float: left;
+}
+.city
+{
+    font-family:'cursive';
+    font-style: italic;
+    font-weight: bold;		
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    border-color: black;
+    width:120px;
+    margin: 2px;
+    float:left;
+}
+
+.final
+{
+     width: 430px;
+    height: 40px; 
+}
+.txtsingle
+{
+
+    font-size: 14px;
+    width: 400px;
+}
+.success
+{
+    font-size: 14px;
+    width: 370px;
+    margin: -5px;
+    padding: 4px
+
+
+}
